@@ -1,6 +1,6 @@
-Redis分片集群实例
+Redis分片集群示例
 GET value
-http://localhost:8080/get/{key}
+http://localhost:8080/get/{key} 
 SET 
 http://localhost:8080/get/{key}/{value}
 
